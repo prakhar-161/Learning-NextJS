@@ -8,4 +8,5 @@
 
 .single:hover {
     border-left: 8px solid rgb(77, 8, 56);
+    cursor: pointer;
 }
