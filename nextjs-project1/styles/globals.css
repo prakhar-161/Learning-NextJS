@@ -42,3 +42,11 @@ footer {
   border-top: 1px solid #777;
 }
 
+.not-found {
+  text-align: center;
+}
+
+.not-found a {
+  color: rgb(77, 8, 56);
+  text-decoration: underline;
+}
